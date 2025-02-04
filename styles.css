@@ -1,0 +1,15 @@
+h1 {
+    font-size: 2.5rem;
+}
+
+div.navbar {
+    background: red;
+}
+
+div.navbar ul li {
+    display: inline;
+    margin: 0 10px;
+    background: violet;
+    padding: 10px;
+    
+}
